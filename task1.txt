@@ -1,0 +1,11 @@
+HTTP1 VS HTTP2
+
+
+HTTP1 is not a debate at all.
+HTTP2 is much faster and more reliable than HTTP1.
+HTTP1 loads a single request for every TCP connection, while HTTP2 avoids network delay by using multiplexing.
+HTTP is a network delay sensitive protocol in the sense that if there is less network delay, then the page loads faster.
+
+OBJECT AND INTERNAL
+
+Objects are the representation of real-world entities in any language representing things by defining its properties along with their values. In Javascript, objects may be defined as an unordered collection of related data, of primitive or reference types, in the form of “key: value” pairs.
